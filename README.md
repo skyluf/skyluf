@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/96982940/149944546-92523e87-8e45-4a45-8bc9-83710ff2e44d.mp4
+![Hey there! I'm skyluf,](https://user-images.githubusercontent.com/96982940/149944939-7636bd47-9551-4760-9de7-d7c7151ec3d4.gif)
 
 
 - 🔭 I’m currently working on a Better Discord Plugin
