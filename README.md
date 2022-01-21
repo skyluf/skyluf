@@ -1,2 +1,2 @@
-![Hey there! I'm skyluf, (1)](https://user-images.githubusercontent.com/96982940/149946269-a8a1981c-3aaa-4b1e-8d4d-c606bfc5f617.png)
+![Hey there! I'm skyluf, (2)](https://user-images.githubusercontent.com/96982940/150470525-84f81f79-7d81-423b-a290-bdd3a09e61ff.png)
 
