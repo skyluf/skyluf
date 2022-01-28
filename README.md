@@ -4,7 +4,7 @@ I'm a beginner in programming! My fav languages are `Java`, `JavaScript` and `Py
 
 You can contact me via discord : skyluf#9293
 
-I also make wallpapers and cool stuff with Photoshop/Blender
+__I also make custom wallpapers and cool stuff with Photoshop/Blender__
 
 ### Languages I'm familiar with :
 - Python
