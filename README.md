@@ -4,7 +4,7 @@ I'm a rookie programmer, My fav languages are `Java`, `JavaScript` and `Python`.
 
 You can contact me via discord : skyluf#9293
 
-# I also make custom wallpapers and cool stuff with Photoshop/Blender__.
+### I also make custom wallpapers and cool stuff with Photoshop/Blender.
 
 ### Languages I'm familiar with :
 - Python
