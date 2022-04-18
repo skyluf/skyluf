@@ -1,23 +1,9 @@
 # Hey There, I'm Skyluf!
 
-I'm a rookie programmer, My fav languages are `Java`, `JavaScript` and `Python`. 
+I'm a rookie programmer. 
+Im familiar with JS, Average CSS user and python. 
 
-You can contact me via discord : skyluf#9293
-
-### I also make custom wallpapers and cool stuff with Photoshop/Blender.
-
-### Languages I'm familiar with :
-- Python
-- JavaScript 
-- HTML
-- CSS
-- JSON
-
-### Languages I wanna learn :
-- Java
-- C
-- C++
-- TypeScript.
+Im currently learning Kotlin, Java, And Dart. 
 
 
 
